@@ -1,2 +1,2 @@
-# alpine-docker
-This repo might contain alpine related files
+# docker image
+This repo might contain docker images related files
